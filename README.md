@@ -1,5 +1,5 @@
 # ArcaneTools
-Arcane Odyssey Tools by jhxu/amechanos. Use to your own discretion and read the official in-game (rules)[https://docs.google.com/document/d/1oh7TLdW6aN6mAyk55BDF_ga-eMl_nHNECo2Bmqa71XA/edit?usp=sharing] to minimise account bans or deletion. 
+Arcane Odyssey Tools by jhxu/amechanos. Use to your own discretion and read the official in-game [rules](https://docs.google.com/document/d/1oh7TLdW6aN6mAyk55BDF_ga-eMl_nHNECo2Bmqa71XA/edit?usp=sharing) to minimise account bans or deletion. 
 
 ## Features
 - Collection of small utilities and helpers for tooling workflows
