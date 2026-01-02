@@ -83,7 +83,7 @@ def check_color(screenshot, target_color, tolerance=10):
 
 def perform_action():
     click_count = 36
-    click_interval = 0.05
+    click_interval = 2
     
     for i in range(click_count):
         if not is_running:
