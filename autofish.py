@@ -83,14 +83,14 @@ def check_color(screenshot, target_color, tolerance=10):
 
 def perform_action():
     click_count = 36
-    click_interval = 1
+    click_interval = 0.05
     
     for i in range(click_count):
         if not is_running:
             print("⏸ Action interrupted.")
             return
         pyautogui.click(button='left')
-        time.sleep(click_interval)
+        pyautogui.click(button='left')
         
     global total_caught
     total_caught += 1
