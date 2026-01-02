@@ -90,7 +90,6 @@ def perform_action():
             print("⏸ Action interrupted.")
             return
         pyautogui.click(button='left')
-        pyautogui.click(button='left')
         
     global total_caught
     total_caught += 1
